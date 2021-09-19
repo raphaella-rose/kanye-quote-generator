@@ -90,12 +90,12 @@ html {
     float: right;
     position: fixed;
     right: 35px;
-    bottom: 300px;
+    bottom: 80px;
     height: auto;
     width: 125px;
   }
   .ShowQuote {
-    margin-top: 200px;
+    margin-top: 80px;
     padding: 0 75px;
   }
   .quote {
